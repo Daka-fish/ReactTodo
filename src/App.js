@@ -3,6 +3,8 @@ import "./App.css";
 import TodoList from "./TodoList";
 import { v4 as uuidv4 } from "uuid";
 
+// ゆせさんとコミットの練習
+
 function App() {
   const [todos, setTodos] = useState([]);
 
